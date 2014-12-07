@@ -12,7 +12,7 @@ describe Convert do
 
     it "Celsius to Fahrenheit" do
       x = Convert.C2F(18)
-      expect(x).to eq "18 Celsius is 64 Fahrenheit"
+      x.should eq "18 Celsius is 64 Fahrenheit"
     end
 
 end
