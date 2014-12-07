@@ -7,7 +7,7 @@ describe Convert do
 	it "Fahrenheit to Celsius" do
       x = Convert.F2C(83)
       #expect(x).to eq  "83 Fahrenheit is 28 Celsius"
-  	  expect(x).to eq '83 Fahrenheit is 28 Celsius'	  
+  	  expect(x).to eq 28	  
     end
 
     it "Celsius to Fahrenheit" do
