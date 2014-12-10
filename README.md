@@ -1,3 +1,8 @@
+influxdb-ruby
+=============
+
+[![Build Status](https://travis-ci.org/influxdb/influxdb-ruby.png?branch=master)](https://travis-ci.org/lukenny/F2C)
+
 F2C
 ===
 # F2C converts Fahrenheit to Celsius and vice versa
