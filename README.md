@@ -1,4 +1,4 @@
-influxdb-ruby
+F2C
 =============
 
 [![Build Status](https://travis-ci.org/influxdb/influxdb-ruby.png?branch=master)](https://travis-ci.org/lukenny/F2C)
